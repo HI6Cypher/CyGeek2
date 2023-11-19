@@ -1,0 +1,12 @@
+C:/Users/2021/AppData/Local/Programs/Python/Python36/python.exe e:/Dev/python/CyGeek2/cygeek_server/cyg33k_server.py
+
+
+[CODE:604:CODE][DATA:{"name":"arash", "password":"helloworld", "roomname":"ooo", "message" : "im arash"}:DATA]
+
+[CODE:605:CODE][DATA:{"name":"secdet", "password":"helloworld", "roomname": "G33k"}:DATA]
+
+[CODE:609:CODE][DATA:{"name":"HI6Cypher", "password":"helloworld", "roomname" : "G33k", "message" : "check"}:DATA]
+
+[CODE:608:CODE][DATA:{"name":"HI6Cypher", "password":"helloworld", "roomname":"G33k", "target" : "secdet"}:DATA]
+
+[CODE:601:CODE][DATA:{"name" : "hi", "password" : "helloworld"}:DATA]
